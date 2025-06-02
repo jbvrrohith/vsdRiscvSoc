@@ -1,0 +1,11 @@
+# 🚀 RISC-V Toolchain Setup Guide
+
+This guide will help you install and verify the **RISC-V GNU Toolchain** (`rv32imac`) on a 64-bit Ubuntu system.
+
+---
+
+## 📦 Step 1: Extract the Toolchain
+
+```bash
+cd ~/Downloads
+tar -xzvf riscv-toolchain-rv32imac-x86_64-ubuntu.tar.gz
