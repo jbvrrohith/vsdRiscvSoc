@@ -30,5 +30,12 @@ source ~/.bashrc
 ```bash
 riscv32-unknown-elf-gcc --version
 ```
-![Extracting toolchain](./assets/o1.png)
-
+![GCC Version](./assets/o1.png)
+```bash
+riscv32-unknown-elf-objdump --version
+```
+![Objdump version](./assets/o2.png)
+```bash
+riscv32-unknown-elf-gdb --version
+```
+![GDB version](./assets/o1.png)
