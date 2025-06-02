@@ -38,4 +38,4 @@ riscv32-unknown-elf-objdump --version
 ```bash
 riscv32-unknown-elf-gdb --version
 ```
-![GDB version](./assets/o1.png)
+![GDB version](./assets/o3.png)
