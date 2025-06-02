@@ -30,5 +30,5 @@ source ~/.bashrc
 ```bash
 riscv32-unknown-elf-gcc --version
 ```
-![Extracting toolchain](.assets/Screenshot 2025-06-02 135816.png)
+![Extracting toolchain](./assets/o1.png)
 
