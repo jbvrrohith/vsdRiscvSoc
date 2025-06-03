@@ -53,4 +53,4 @@ After running the compilation command, you use the `file` utility to check the g
 file hello.elf
 ```
 The `file` command examines a file and tries to determine its type. 
-
+![Output](./assets/p1.png)
