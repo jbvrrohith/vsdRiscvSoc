@@ -16,7 +16,7 @@ nano ~/.bashrc
 ```
 Add the following line at the end:
 ```bash
-export PATH="/home/your_username/Downloads/riscv/bin:$PATH"
+export PATH="/home/jbvrrohith/Downloads/riscv/bin:$PATH"
 ```
 ## 💾 Step 3: Save and Apply
 
