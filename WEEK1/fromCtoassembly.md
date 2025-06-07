@@ -40,6 +40,7 @@ They are compiler pseudo-instructions that split a 32-bit address (like .LC0) in
 - **`%hi(symbol)`** — extracts the upper 20 bits of the symbol's address.
 - **`%lo(symbol)`** — extracts the lower 12 bits of the symbol's address.
 - **`addi`** can only handle 12-bit signed immediates.
+  
 ![image](./assets/t1.png)
 
 🔹 **Epilogue**:
@@ -52,4 +53,5 @@ They are compiler pseudo-instructions that split a 32-bit address (like .LC0) in
 🔁 Restores the original stack state and exits the function.
 
 ## Output
+
 ![image](./assets/t2.png)
