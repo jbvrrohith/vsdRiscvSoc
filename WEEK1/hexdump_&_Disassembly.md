@@ -10,7 +10,9 @@ riscv32-unknown-elf-objdump -d hello.elf > hello.dump
 ```
 - **`-d`** ~ disassemble all code sections (usually .text)
 - **`hello.dump`** ~ now contains readable assembly
+  
 ![image](./assets/t4.png)
+
 ![image](./assets/t3.png)
 
 ## ✅ Step 2: Convert ELF to Raw Hex Format
