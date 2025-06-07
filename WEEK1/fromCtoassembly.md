@@ -16,7 +16,8 @@ riscv32-unknown-elf-gcc -S -O0 hello.c
 
 </details>
 
-##✅ Step 2: Understand the Function Prologue & Epilogue
+## ✅ Step 2: Understand the Function Prologue & Epilogue
+
 🔹 **Prologue**:
 ```bash
 main:
